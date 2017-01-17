@@ -1,0 +1,16 @@
+.list-group-item {
+    cursor: pointer;
+    opacity: 0.85;
+}
+
+.list-group-item:hover {
+    background-color: #eee;
+    opacity: 1;
+}
+
+.bar {
+    fill: green;
+}
+.bar:hover {
+    fill: lightgreen;
+}
